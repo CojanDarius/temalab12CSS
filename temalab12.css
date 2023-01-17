@@ -1,0 +1,60 @@
+.stil1{
+    background-color: lightgrey;
+    color: white;
+    text-align:center;
+}
+.stil2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.stil3{
+    background-color: green;
+    border: 2px solid black;
+    border-radius:20px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.butoane {
+    background-color: greenyellow; 
+    border: 2px solid black;
+    border-radius:8px;
+    padding: 8px;
+    text-align: center;
+    cursor: pointer;
+    opacity: 0.8;
+}
+.butoane:hover{background-color:aqua}
+
+.ListaItem {
+    background-color: whitesmoke;
+    border-radius:10px;
+    margin: 20px;
+    border-style: solid; color:white;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: blue;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: green;
+}
+.stil4 {
+    background-color: antiquewhite;
+    border: 2px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    color: black;
+}
